@@ -27,15 +27,5 @@ Assuming the role of a data analyst/scientist at Target, the task is to analyze 
 5. Analysis on Sales, Freight, and Delivery Time: Determine delivery time and differences between estimated and actual delivery dates, identify states with high/low average freight values and delivery times, and assess states with fast delivery compared to estimated dates.
 6. Analysis Based on Payments: Analyze the month-on-month orders placed using different payment types and the number of orders based on payment installments.
 
-## Evaluation Criteria
-1. Initial exploration like checking the structure & characteristics of the data.
-2. In-depth Exploration.
-3. Evolution of E-commerce orders in the Brazil region.
-4. Impact on Economy.
-5. Analysis on sales, freight, and delivery time.
-6. Analysis based on payments.
-7. Actionable Insights & Recommendations.
-
 ## Contributors
-- [@Mohammad_Aadil] - Data Analyst/Scientist
-
+- Mohammad_Aadil - Data Analyst
