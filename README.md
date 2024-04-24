@@ -1,21 +1,41 @@
-# Target Brazil: E-commerce Analysis
+# Business Case: Target SQL Analysis
 
-## Welcome
-Welcome to the Target Brazil E-commerce Analysis project! Here, we explore Target's online sales in Brazil using data from 2016 to 2018. Our goal is to learn valuable insights from the data to improve Target's online shopping experience.
+## Overview
+Target, a globally renowned brand, operates in Brazil, offering exceptional value, innovation, and a superior shopping experience. This analysis focuses on Target's operations in Brazil from 2016 to 2018, aiming to extract insights into various aspects such as order processing, pricing strategies, payment efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
 ## Dataset
-We obtained the dataset from a GitHub repository, which includes eight CSV files containing different information:
-1. **customers.csv**: Info about customers like ID, location, etc.
-2. **sellers.csv**: Details about sellers like ID, location, etc.
-3. **order_items.csv**: Data about each item ordered, its price, shipping details, etc.
-4. **geolocation.csv**: Locations' data like zip codes, city names, etc.
-5. **payments.csv**: Payment info like type, amount, etc.
-6. **orders.csv**: Order details including ID, status, dates, etc.
-7. **reviews.csv**: Customer reviews including scores and comments.
-8. **products.csv**: Product details like category, dimensions, etc.
+The dataset consists of eight CSV files:
+1. customers.csv
+2. sellers.csv
+3. order_items.csv
+4. geolocation.csv
+5. payments.csv
+6. reviews.csv
+7. orders.csv
+8. products.csv
+
+These files contain information about customers, sellers, order items, geolocations, payments, reviews, orders, and products. Each file provides specific details related to the respective aspect of Target's operations in Brazil.
+
+## Problem Statement
+Assuming the role of a data analyst/scientist at Target, the task is to analyze the dataset to extract valuable insights and provide actionable recommendations. The analysis will involve various exploratory and in-depth examinations, focusing on aspects such as order trends, seasonality, customer behavior, economic impact, sales analysis, delivery efficiency, and payment patterns.
+
+### What Does 'Good' Look Like?
+1. Initial Exploration: Check the structure and characteristics of the dataset, including data types, time range of orders, and customer locations.
+2. In-depth Exploration: Investigate trends in the number of orders over the years, monthly seasonality, and time of day for order placements.
+3. Evolution of E-commerce Orders: Analyze the month-on-month orders placed in each state and customer distribution across states.
+4. Impact on Economy: Examine the movement of money through e-commerce, including changes in order prices and freight costs.
+5. Analysis on Sales, Freight, and Delivery Time: Determine delivery time and differences between estimated and actual delivery dates, identify states with high/low average freight values and delivery times, and assess states with fast delivery compared to estimated dates.
+6. Analysis Based on Payments: Analyze the month-on-month orders placed using different payment types and the number of orders based on payment installments.
+
+## Evaluation Criteria
+1. Initial exploration like checking the structure & characteristics of the data.
+2. In-depth Exploration.
+3. Evolution of E-commerce orders in the Brazil region.
+4. Impact on Economy.
+5. Analysis on sales, freight, and delivery time.
+6. Analysis based on payments.
+7. Actionable Insights & Recommendations.
 
 ## Contributors
-- [Mohammad Aadil](https://github.com/Mohammad-Aadil)
-
-
+- [@Mohammad_Aadil] - Data Analyst/Scientist
 
