@@ -28,4 +28,4 @@ Assuming the role of a data analyst/scientist at Target, the task is to analyze 
 6. Analysis Based on Payments: Analyze the month-on-month orders placed using different payment types and the number of orders based on payment installments.
 
 ## Contributors
-- Mohammad_Aadil - Data Analyst
+- [Mohammad_Aadil](https://github.com/Mohammad_Aadil) Data Analyst
