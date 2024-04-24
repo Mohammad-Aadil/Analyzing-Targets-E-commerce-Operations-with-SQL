@@ -1,4 +1,4 @@
-# Target SQL Analysis
+# Analyzing Target's E-commerce Operations with SQL
 
 ## Overview
 Target, a globally renowned brand, operates in Brazil, offering exceptional value, innovation, and a superior shopping experience. This analysis focuses on Target's operations in Brazil from 2016 to 2018, aiming to extract insights into various aspects such as order processing, pricing strategies, payment efficiency, customer demographics, product characteristics, and customer satisfaction levels.
